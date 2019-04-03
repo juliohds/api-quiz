@@ -1,0 +1,14 @@
+C:\Users\Administrador\source\repos\QuizEmdia\QuizEmdia\obj\Debug\netcoreapp2.1\QuizEmdia.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\QuizEmdia\QuizEmdia\obj\Debug\netcoreapp2.1\QuizEmdia.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\QuizEmdia\QuizEmdia\obj\Debug\netcoreapp2.1\QuizEmdia.RazorAssemblyInfo.cache
+C:\Users\Administrador\source\repos\QuizEmdia\QuizEmdia\obj\Debug\netcoreapp2.1\QuizEmdia.RazorAssemblyInfo.cs
+C:\Users\Administrador\source\repos\QuizEmdia\QuizEmdia\obj\Debug\netcoreapp2.1\QuizEmdia.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\QuizEmdia\QuizEmdia\obj\Debug\netcoreapp2.1\QuizEmdia.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\QuizEmdia\QuizEmdia\bin\Debug\netcoreapp2.1\QuizEmdia.deps.json
+C:\Users\Administrador\source\repos\QuizEmdia\QuizEmdia\bin\Debug\netcoreapp2.1\QuizEmdia.runtimeconfig.json
+C:\Users\Administrador\source\repos\QuizEmdia\QuizEmdia\bin\Debug\netcoreapp2.1\QuizEmdia.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\QuizEmdia\QuizEmdia\bin\Debug\netcoreapp2.1\QuizEmdia.dll
+C:\Users\Administrador\source\repos\QuizEmdia\QuizEmdia\bin\Debug\netcoreapp2.1\QuizEmdia.pdb
+C:\Users\Administrador\source\repos\QuizEmdia\QuizEmdia\obj\Debug\netcoreapp2.1\QuizEmdia.RazorTargetAssemblyInfo.cache
+C:\Users\Administrador\source\repos\QuizEmdia\QuizEmdia\obj\Debug\netcoreapp2.1\QuizEmdia.dll
+C:\Users\Administrador\source\repos\QuizEmdia\QuizEmdia\obj\Debug\netcoreapp2.1\QuizEmdia.pdb
